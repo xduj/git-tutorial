@@ -1,4 +1,5 @@
 # Git turtole
 
--feature-A
+- feature-A
 - fix-B
+- feature-C
